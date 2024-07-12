@@ -173,3 +173,5 @@ Pipfile
 # ADDING DJANGO MIGRATIONS
 */migrations/
 
+# ADDING SETTING FILE FROM .VSCODE DIRECTORY
+settings.json
