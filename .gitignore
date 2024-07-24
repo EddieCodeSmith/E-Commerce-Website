@@ -175,3 +175,6 @@ Pipfile
 
 # ADDING SETTING FILE FROM .VSCODE DIRECTORY
 settings.json
+
+# ADDING STATIC FILES
+staticfiles
